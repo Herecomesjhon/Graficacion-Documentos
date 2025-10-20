@@ -1,25 +1,5 @@
-# Manos Union
-Codigo completo wfhqwifj3qpf3qf
-ewfeqwf
-ewf
-ewf
-ewf
-ewf
-ewfewfewf
-3wf
-3wf
-w3e
-few
-few
-f
-ewf
-ewf
-ewfewf454b34
-6234
-t2
-b6b7u6jyh6uj.munhyujtbvgrbtyujmjnvgfg
-j
-hj g
+# Manos Unión
+Este programa utiliza la cámara web para detectar manos en tiempo real usando MediaPipe y OpenCV.
 ``` python
 import cv2
 
@@ -144,8 +124,8 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-## Mediapipe Deteccion
-Este bloque de codigo hace esto
+## Mediapipe Detección
+Este bloque de código hace esto hace la función para que mediapipe funcione y detecte manos en tiempo real.
 ``` PYTHON
 
 # Inicializar MediaPipe Hands
