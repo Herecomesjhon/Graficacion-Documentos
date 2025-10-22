@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODES/Actividad Lectura de manos..md",
+                "file": "CODES/Actividad Filtro de Cara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actividad Lectura de manos."
+              "title": "Actividad Filtro de Cara"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Convertir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,6 +188,8 @@
   "active": "2a20009043a8856c",
   "lastOpenFiles": [
     "CODES/Actividad Lectura de manos..md",
+    "CODES/Actividad Filtro de Cara.md",
+    "Untitled.base",
     "Untitled.canvas",
     "create a link.md",
     "CODES/Pasted image 20250727171132.png",
