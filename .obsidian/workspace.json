@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODES/Actividad Filtro de Cara.md",
+                "file": "CODES/Operadores Puntuales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actividad Filtro de Cara"
+              "title": "Operadores Puntuales"
             }
           }
         ],
@@ -188,6 +188,7 @@
   "active": "2a20009043a8856c",
   "lastOpenFiles": [
     "CODES/Actividad Lectura de manos..md",
+    "CODES/Operadores Puntuales.md",
     "CODES/Actividad Filtro de Cara.md",
     "Untitled.base",
     "Untitled.canvas",
