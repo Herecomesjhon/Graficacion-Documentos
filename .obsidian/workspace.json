@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODES/Operadores Puntuales.md",
+                "file": "CODES/Capa Invisibilidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operadores Puntuales"
+              "title": "Capa Invisibilidad"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "2a20009043a8856c",
   "lastOpenFiles": [
-    "CODES/Actividad Lectura de manos..md",
     "CODES/Operadores Puntuales.md",
+    "CODES/Capa Invisibilidad.md",
+    "CODES/Actividad Lectura de manos..md",
     "CODES/Actividad Filtro de Cara.md",
     "Untitled.base",
     "Untitled.canvas",
