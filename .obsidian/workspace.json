@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODES/Capa Invisibilidad.md",
+                "file": "CODES/Actividad Creación de IMG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capa Invisibilidad"
+              "title": "Actividad Creación de IMG"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "2a20009043a8856c",
   "lastOpenFiles": [
-    "CODES/Operadores Puntuales.md",
     "CODES/Capa Invisibilidad.md",
+    "CODES/Actividad Creación de IMG.md",
+    "CODES/Operadores Puntuales.md",
     "CODES/Actividad Lectura de manos..md",
     "CODES/Actividad Filtro de Cara.md",
     "Untitled.base",
