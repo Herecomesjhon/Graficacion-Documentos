@@ -1,3 +1,9 @@
+El programa mostrará una ventana con tres figuras 3D (ojo, hueso y riñón) que rotan continuamente con iluminación básica.
+
+El código implementa un sistema de visualización tridimensional que renderiza modelos anatómicos estilizados en tiempo real utilizando tecnologías clásicas de gráficos por computadora.
+
+El programa emplea OpenGL como núcleo gráfico utilizando su pipeline de renderizado fijo con funciones de modo inmediato como glBegin y glVertex para definir geometrías básicas La capa GLU.
+
 ``` PYTHON
 import glfw
 
