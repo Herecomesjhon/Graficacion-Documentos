@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Órganos Hueso Pulmones e Hígado."
             }
+          },
+          {
+            "id": "7756a8d8d75143c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODES/Dibujo de casa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dibujo de casa"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,17 +213,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9999625303ed3989",
+  "active": "7756a8d8d75143c3",
   "lastOpenFiles": [
-    "CODES/Matriz con dibujo.md",
-    "CODES/Órganos Hueso Pulmones e Hígado..md",
     "CODES/Operadores Puntuales.md",
-    "CODES/Actividad Creación de IMG.md",
     "CODES/Órganos primero ojos 3D.md",
-    "CODES/Actividad Filtro de Cara.md",
-    "Untitled.base",
-    "CODES/Actividad Lectura de manos..md",
+    "CODES/Órganos Hueso Pulmones e Hígado..md",
+    "CODES/Dibujo de casa.md",
     "CODES/Capa Invisibilidad.md",
+    "CODES/Actividad Filtro de Cara.md",
+    "CODES/Actividad Creación de IMG.md",
+    "CODES/Matriz con dibujo.md",
+    "CODES/Actividad Lectura de manos..md",
+    "Untitled.base",
     "Untitled.canvas",
     "create a link.md",
     "CODES/Pasted image 20250727171132.png",
