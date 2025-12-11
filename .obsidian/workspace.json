@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODES/ECUACION PARAMETRICA.md",
+                "file": "CODES/HOLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECUACION PARAMETRICA"
+              "title": "HOLA"
             }
           }
         ],
@@ -215,15 +215,16 @@
   },
   "active": "7756a8d8d75143c3",
   "lastOpenFiles": [
-    "CODES/Dibujo de casa.md",
-    "CODES/ECUACION PARAMETRICA.md",
-    "CODES/Operadores Puntuales.md",
-    "CODES/Órganos primero ojos 3D.md",
     "CODES/Órganos Hueso Pulmones e Hígado..md",
-    "CODES/Capa Invisibilidad.md",
+    "CODES/HOLA.md",
+    "CODES/Matriz con dibujo.md",
+    "CODES/Dibujo de casa.md",
     "CODES/Actividad Filtro de Cara.md",
     "CODES/Actividad Creación de IMG.md",
-    "CODES/Matriz con dibujo.md",
+    "CODES/ECUACION PARAMETRIC.md",
+    "CODES/Operadores Puntuales.md",
+    "CODES/Órganos primero ojos 3D.md",
+    "CODES/Capa Invisibilidad.md",
     "CODES/Actividad Lectura de manos..md",
     "Untitled.base",
     "Untitled.canvas",
