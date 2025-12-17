@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODES/PINPON.md",
+                "file": "CODES/MOV PELOTA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PINPON"
+              "title": "MOV PELOTA"
             }
           }
         ],
@@ -243,8 +243,13 @@
   },
   "active": "3346d0905c51240f",
   "lastOpenFiles": [
-    "CODES/Operadores Puntuales.md",
+    "CODES/Practica gl_quads.md",
+    "CODES/Órganos primero ojos 3D.md",
+    "CODES/Órganos Hueso Pulmones e Hígado..md",
     "CODES/PINPON.md",
+    "CODES/MOV PELOTA.md",
+    "Untitled 1.md",
+    "CODES/Operadores Puntuales.md",
     "Untitled.md",
     "Untitled.base",
     "Ecuaciones Diferenciales.md",
@@ -252,12 +257,9 @@
     "CODES/Actividad Filtro de Cara.md",
     "CODES/Actividad Creación de IMG.md",
     "CODES/Actividad Lectura de manos..md",
-    "CODES/Practica gl_quads.md",
-    "CODES/Órganos Hueso Pulmones e Hígado..md",
     "CODES/Matriz con dibujo.md",
     "CODES/Dibujo de casa.md",
     "CODES/ECUACION PARAMETRIC.md",
-    "CODES/Órganos primero ojos 3D.md",
     "CODES/Capa Invisibilidad.md",
     "Untitled.canvas",
     "create a link.md",
